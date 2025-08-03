@@ -1,9 +1,8 @@
-<!-- 깔끔한 중앙 정렬을 원하면 이 부분 활성화 -->
-<!--
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME" alt="Profile views"/>
 </p>
--->
+
 
 ## 🛠 Tech Stack
 
