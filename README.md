@@ -48,6 +48,5 @@
 ---
 
 ## 📫 Contact
-- 📧 taeyoon.kim@example.com  
-- 🔗 [GitHub Profile](https://github.com/YOUR_USERNAME)  
-- 🔗 [LinkedIn](https://linkedin.com/in/taeyoon-kim)  
+- 📧 kty2622@icloud.com
+- 🔗 [GitHub Profile](https://github.com/ggkama)   
