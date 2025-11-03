@@ -101,6 +101,6 @@
 ## 📫 Contact
 - Email: <ggkama@naver.com>  
 - GitHub: https://github.com/ggkama
-- Notion(Portfolio): https://desert-cheshire-6d7.notion.site
+- Notion(Portfolio): https://www.notion.so/27331384d620809290fbce7295651d20?source=copy_link
 
 <!-- 필요 시 라이선스/블로그/스터디/자격증 섹션 추가 -->
