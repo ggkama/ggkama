@@ -8,7 +8,7 @@
 <p align="center">
   <a href="mailto:ggkama@naver.com"><img alt="Email" src="https://img.shields.io/badge/Email-ggkama@naver.com-3b82f6?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/ggkama"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-ggkama-111827?style=for-the-badge&logo=github"></a>
-  <a href="https://www.notion.so/27331384d620809290fbce7295651d20?source=copy_link"><img alt="Notion" src="https://img.shields.io/badge/Portfolio(Notion)-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
+  <a href="https://spangle-litter-559.notion.site/27331384d620809290fbce7295651d20"><img alt="Notion" src="https://img.shields.io/badge/Portfolio(Notion)-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
 </p>
 
 ---
@@ -78,7 +78,7 @@
   - 가게/예약/리뷰 CRUD, 즐겨찾기, 검색/필터
   - 소셜 로그인(Kakao), 사용자 프로필/비밀번호 변경
 - **Tech**: Spring Boot, MyBatis, Oracle DB, React(Vite), Tailwind, Docker, Nginx  
-- **Link**: [Notion](https://desert-cheshire-6d7.notion.site/NomNom-239e0ceea64080e5a4bce6f88ac5f42d?pvs=74) · [Backend Repo](https://github.com/ggkama/MatZip-back) · [Frontend Repo](https://github.com/ggkama/MatZip-back)
+- **Link**: [Notion](https://spangle-litter-559.notion.site/MatZip-27331384d620811c96aaf2d9ed85192d?source=copy_link) · [Backend Repo](https://github.com/ggkama/MatZip-back) · [Frontend Repo](https://github.com/ggkama/MatZip-back)
 
 ---
 
