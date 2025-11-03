@@ -8,7 +8,7 @@
 <p align="center">
   <a href="mailto:ggkama@naver.com"><img alt="Email" src="https://img.shields.io/badge/Email-ggkama@naver.com-3b82f6?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/ggkama"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-ggkama-111827?style=for-the-badge&logo=github"></a>
-  <a href="https://desert-cheshire-6d7.notion.site/1f8e0ceea6408067a437ffd6aa96e406"><img alt="Notion" src="https://img.shields.io/badge/Portfolio(Notion)-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
+  <a href="https://www.notion.so/27331384d620809290fbce7295651d20?source=copy_link"><img alt="Notion" src="https://img.shields.io/badge/Portfolio(Notion)-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
 </p>
 
 ---
